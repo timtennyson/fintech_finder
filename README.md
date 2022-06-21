@@ -33,8 +33,8 @@ In order to run the application, you'll need to have Ganache installed and runni
 
 Use terminal to open the program. Do this by entering "streamlit run fintech_finder.py" from the parent directory. Select the person you want to hire, input the number of hours, and send the transaction. After sending the transaction hash should appear on the lower left. See screenshots for reference.
 
-!['Streamlit Screen Shot'](https://github.com/timtennyson/pychain_ledger/blob/main/streamlit_txn.jpg)
-!['Ganache Screen Shot'](https://github.com/timtennyson/pychain_ledger/blob/main/txn_details.jpg)
+!['Streamlit Screen Shot'](https://github.com/timtennyson/fintech_finder/blob/main/streamlit_txn.jpg)
+!['Ganache Screen Shot'](https://github.com/timtennyson/fintech_finder/blob/main/txn_details.jpg)
 
 ## Contributors
 Tim Tennyson
